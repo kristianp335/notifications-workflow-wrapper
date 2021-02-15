@@ -6,6 +6,7 @@ Developed to run on the following versions of Liferay and/or Commerce: `Liferay 
 
 Built with [Liferay Workspace](https://help.liferay.com/hc/en-us/articles/360029147471-Liferay-Workspace) and [Blade CLI](https://help.liferay.com/hc/en-us/articles/360029147071-Blade-CLI).
 
+![screenshot](screenshot2.png)
 ![screenshot](screenshot1.png)
 
 ## How to Build and Deploy to Liferay
